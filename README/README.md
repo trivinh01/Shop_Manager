@@ -2,12 +2,6 @@
 
 # Phần mềm Quản lý cửa hàng Giày
 
-## Team
-| stt | Họ Tên  | Phần trăm việc làm |
-|---| ----- | ----- |
-| 1 | Tăng Chí Chung | 60% |
-| 2 | Nguyễn Tuấn Anh | 40% |
-
 | Thư mục | DTO | DAO | BUS | GUI | Lib | Image | Mô hình thực thể kết hợp | Cơ sở dữ liệu |
 |---| ----- | ----- | ----- | ----- | ----- | ----- |   ----- |  ----- |
 | Link | [DTO](./src/ShoesManager/DTO) | [DAO](./src/ShoesManager/DAO) | [BUS](./src/ShoesManager/BUS) | [GUI](./src/ShoesManager/GUI) | [Lib](./src/ShoesManager/lib) | [Image](./src/ShoesManager/images) | [DataBase](./src/DataBase.PNG) | [ERD](./src/phpAdminSQL.sql) |
